@@ -1,6 +1,6 @@
-import { hsalsa, secretbox } from "@noble/ciphers/salsa";
-import { x25519 } from "@noble/curves/ed25519";
-import { u32, u8 } from "@noble/hashes/utils";
+import { hsalsa, secretbox } from "@noble/ciphers/salsa.js";
+import { x25519 } from "@noble/curves/ed25519.js";
+import { u32, u8 } from "@noble/hashes/utils.js";
 
 type CryptoBoxEasyParams = {
   message: Uint8Array;

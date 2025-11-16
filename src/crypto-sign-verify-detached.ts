@@ -1,4 +1,4 @@
-import { ed25519 } from "@noble/curves/ed25519";
+import { ed25519 } from "@noble/curves/ed25519.js";
 
 type CryptoSignVerifyDetachedParams = {
   signature: Uint8Array;

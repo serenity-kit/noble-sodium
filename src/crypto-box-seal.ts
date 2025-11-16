@@ -1,4 +1,4 @@
-import { blake2b } from "@noble/hashes/blake2b";
+import { blake2b } from "@noble/hashes/blake2.js";
 import { crypto_box_NONCEBYTES } from "./constants.js";
 import { cryptoBoxEasy } from "./crypto-box-easy.js";
 import { cryptoBoxKeyPair } from "./crypto-box-key-pair.js";
