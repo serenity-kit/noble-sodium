@@ -41,9 +41,9 @@
   "devDependencies": {
     "@types/libsodium-wrappers": "^0.7.14",
     "libsodium-wrappers": "^0.7.15",
-    "prettier": "^3.5.3",
-    "typescript": "^5.8.3",
-    "vitest": "^3.1.1"
+    "prettier": "^3.6.2",
+    "typescript": "^5.9.3",
+    "vitest": "^4.0.9"
   },
   "pnpm": {
     "onlyBuiltDependencies": [
