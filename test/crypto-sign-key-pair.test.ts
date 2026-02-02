@@ -1,5 +1,4 @@
-import type { KeyPair } from "libsodium-wrappers";
-import * as sodium from "libsodium-wrappers";
+import sodium, { type KeyPair } from "libsodium-wrappers";
 import { expect, expectTypeOf, it } from "vitest";
 import { cryptoSignKeyPair } from "../src/index";
 
