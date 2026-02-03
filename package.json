@@ -1,6 +1,6 @@
 {
   "name": "@serenity-kit/noble-sodium",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "TypeScript library offering a Libsodium-compatible API built on top of Noble packages",
   "repository": "https://github.com/serenity-kit/noble-sodium",
   "type": "module",
