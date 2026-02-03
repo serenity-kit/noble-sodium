@@ -39,6 +39,7 @@
     "@noble/hashes": "^2.0.1"
   },
   "devDependencies": {
+    "@changesets/cli": "^2.29.8",
     "libsodium-wrappers": "^0.8.2",
     "prettier": "^3.8.1",
     "typescript": "^5.9.3",
