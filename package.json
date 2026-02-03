@@ -32,6 +32,9 @@
   "sideEffects": false,
   "author": "Naisho GmbH",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "packageManager": "pnpm@10.28.2",
   "dependencies": {
     "@noble/ciphers": "^2.1.1",
