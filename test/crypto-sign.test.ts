@@ -1,4 +1,4 @@
-import * as sodium from "libsodium-wrappers";
+import sodium from "libsodium-wrappers";
 import { expect, it } from "vitest";
 import {
   cryptoSignDetached,

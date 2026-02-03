@@ -32,18 +32,18 @@
   "sideEffects": false,
   "author": "Naisho GmbH",
   "license": "MIT",
-  "packageManager": "pnpm@10.22.0",
+  "packageManager": "pnpm@10.28.2",
   "dependencies": {
-    "@noble/ciphers": "^2.0.1",
+    "@noble/ciphers": "^2.1.1",
     "@noble/curves": "^2.0.1",
     "@noble/hashes": "^2.0.1"
   },
   "devDependencies": {
-    "@types/libsodium-wrappers": "^0.7.14",
-    "libsodium-wrappers": "^0.7.15",
-    "prettier": "^3.6.2",
+    "@changesets/cli": "^2.29.8",
+    "libsodium-wrappers": "^0.8.2",
+    "prettier": "^3.8.1",
     "typescript": "^5.9.3",
-    "vitest": "^4.0.9"
+    "vitest": "^4.0.18"
   },
   "pnpm": {
     "onlyBuiltDependencies": [
